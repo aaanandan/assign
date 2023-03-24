@@ -16,5 +16,5 @@ To run with default string  input value  = 2
 ```npm run tower```
 
 
-To run with custom string  input value  update the balancedSubString.js
+To run with custom string  input value  update the towerOfHonai.js
 ``` let n=process.env.npm_config_n || 4;```
